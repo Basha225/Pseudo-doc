@@ -1,0 +1,32 @@
+* {
+    margin: 10p 0px 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.head {
+    color: green;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+}
+
+h1 {
+    color: blue;
+    text-decoration-line: underline;
+}
+
+ul {
+    padding: 0px 30px;
+    font-size: 24px;
+}
+
+pre {
+    font-size: 20px;
+    color: red;
+}
+
+p {
+    font-size: 20px;
+    text-align: justify;
+}
